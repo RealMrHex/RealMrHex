@@ -1,6 +1,5 @@
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -47,46 +46,43 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -95,15 +91,9 @@
 
 
 ## Github Stats 📊
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=realmrhex&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=realmrhex&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmrhex&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>
 <br />
 
 ----
